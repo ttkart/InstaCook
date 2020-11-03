@@ -1,2 +1,4 @@
 # InstaCook
-Web based-application, Won the Rally2US Hackathon, awarded for the Best Cooking Project, Best Empowerment Project, Best Web Project. 
+The project aims to find a combination of recipes based on the 3 vegetables which user entered does web wide recipe search and displays the URL choices done using Python & Libraries.
+
+For example, if a user enters three vegetables: Tomato, Carrot, and beans, you will be given the urls of the different recipes combinations of those vegetables.
